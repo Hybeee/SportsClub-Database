@@ -1,0 +1,4 @@
+Football TEST 420 2002.01.01 ColourTEST TrainerTEST 2000 AbilityTEST 2000
+Basketball TEST 420 2002.01.01 ColourTEST TrainerTEST 2000 AbilityTEST GirlsTEST 10 8.5
+Handball TEST 420 2000.1.1 ColourTEST TrainerTEST 2000 AbilityTEST 2000
+Handball TEST 420 2000.1.1 ColourTEST TrainerTEST 2000 AbilityTEST 2000
